@@ -1,0 +1,6 @@
+net/mengkang/Demo.class
+net/mengkang/rpc/RpcClient.class
+net/mengkang/rpc/RpcClientInvocationHandler.class
+net/mengkang/rpc/RpcRequest.class
+net/mengkang/sdk/UserService.class
+net/mengkang/sdk/User.class
